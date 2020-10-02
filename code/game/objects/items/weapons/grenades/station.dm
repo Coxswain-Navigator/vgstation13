@@ -150,3 +150,4 @@
 
 /obj/machinery/computer/operating/selfpower/powered(channel)
 	return TRUE
+	
